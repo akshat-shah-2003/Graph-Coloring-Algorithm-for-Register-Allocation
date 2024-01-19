@@ -34,3 +34,10 @@ This code demonstrates the implementation of a neural network-based graph colori
 ● The code concludes with the visualization of the colored graph using Matplotlib, where each node is represented as a circle, and edges are plotted between connected nodes. The color of each node reflects the result of the optimal coloring.
 
 ● The get_colored_nodes function extracts a dictionary containing the colored nodes from the optimal coloring result, and this dictionary is printed for further analysis. Overall, the code integrates graph theory concepts, neural network training, and visualization to address the graph coloring problem
+
+
+Output Screenshots of the code:
+
+![Screenshot 2024-01-19 171639](https://github.com/pvrPranavRathi/Graph-Coloring-Algorithm-for-Register-Allocation/assets/99244980/f1654b21-ab7b-47f7-ba2e-e261f6f6153e)
+![Screenshot 2024-01-19 171629](https://github.com/pvrPranavRathi/Graph-Coloring-Algorithm-for-Register-Allocation/assets/99244980/8bffea38-cd69-44e5-b616-b3e5e9f95619)
+![Screenshot 2024-01-19 171622](https://github.com/pvrPranavRathi/Graph-Coloring-Algorithm-for-Register-Allocation/assets/99244980/5eaf7009-e965-40f4-b654-ad55a1a9db26)
